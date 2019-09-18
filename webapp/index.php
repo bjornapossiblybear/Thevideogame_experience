@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 $dbconnecterror = FALSE;
 $dbh = NULL;
 $dbReadError = FALSE;
-
+#test
 require_once 'credentials.php';
 
 try{
